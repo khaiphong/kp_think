@@ -1,2 +1,3 @@
-# kp_think
-Think-Tank to promote "Core Values of Honesty &amp; Care"
+# KpThink
+
+Think-Tank to promote [ <b>Core Values of "#Truth &gt;&lt; #Honesty &gt;&lt; #Care &gt;&lt;"</b> ].
